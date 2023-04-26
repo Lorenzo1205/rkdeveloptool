@@ -37,3 +37,4 @@ sudo ./rkdeveloptool db RKXXLoader.bin    //download usbplug to device
 sudo ./rkdeveloptool wl 0x8000 kernel.img //0x8000 is base of kernel partition,unit is sector.
 sudo ./rkdeveloptool rd                   //reset device
 
+### GREEETZZ Lorenzo1205 ####
